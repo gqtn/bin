@@ -10,7 +10,7 @@ This repository is dedicated to storing and sharing pre-compiled binaries of exc
 ---
 ### 🔗 Reference List
 
-Building ...
+- [ncspot](https://github.com/gqtn/bin/tree/main/ncspot) Spotify TUI Client
 
 ---
 ### ⚛️ Issues?
